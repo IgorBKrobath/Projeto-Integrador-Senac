@@ -24,10 +24,10 @@ A arquitetura do projeto foi dividida separando a base lógica das entidades de 
 2. Clone este repositório:
    git clone [https://github.com/IgorBKrobath/Projeto-Integrador-Senac.git](https://github.com/IgorBKrobath/Projeto-Integrador-Senac.git)
 
-## Equipe
-Jamile
-Julia
-Thais
-Igor Borges Krobath
-Yasmin
-Renan
+* ## Equipe
+* Jamile
+* Julia
+* Thais
+* Igor Borges Krobath
+* Yasmin
+* Renan
